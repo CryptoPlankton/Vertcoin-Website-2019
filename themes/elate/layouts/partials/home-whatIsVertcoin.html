@@ -1,0 +1,90 @@
+<section id="home-why" data-section="home-why">
+
+
+
+
+
+    <div class="wrapper">
+
+        <div class="childController">
+
+
+            <h3>{{ i18n "what_title" | markdownify }}</h3>
+
+
+
+            
+
+         
+
+
+
+
+
+
+            <a href="/download" class="largeButton">
+                {{ i18n "getStarted_title" | markdownify }}
+            </a>
+
+
+            
+        </div>
+
+    </div>
+
+    <div>
+        <div style="margin: 0 auto; max-width: 794px">
+                <div class="mainvideo">
+                    <div onclick="loadYoutubeVideo(event);" ontouchstart="loadYoutubeVideo(event);" data-youtubeurl="https://www.youtube.com/embed/JKW4GP7YqIc?rel=0&amp;showinfo=0&amp;wmode=opaque&amp;autoplay=1&amp;modestbranding=1">
+                        <img src="/images/video_placeholder.jpg" alt="Youtube video" style="filter: brightness(1.09);">
+
+
+                        <div class="mainvideoicon"></div>
+
+                    </div>
+                </div>
+            </div>
+
+
+
+            
+    </div>
+
+
+
+
+
+
+
+
+</section>
+
+<script type="text/javascript">
+    var tag = document.createElement('script');
+
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+
+
+    var player;
+
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+            height: '390',
+            width: '640',
+            videoId: 'M7lc1UVf-VE',
+            events: {
+                'onReady': onPlayerReady
+            }
+        });
+    }
+
+
+    function onPlayerReady(event) {
+        player.setPlaybackRate(1);
+
+    }
+
+</script>

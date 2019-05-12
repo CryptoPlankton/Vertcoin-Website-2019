@@ -1,0 +1,236 @@
+baseURL = "https://vertcoin.org/"
+DefaultContentLanguage = "en"
+title = "Vertcoin"
+theme = "elate"
+
+
+#This file prints out code blocks
+
+
+
+#Language
+
+
+   [languages]
+   
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    url = "/"
+    
+  
+  [languages.fr]
+    
+    languageName = "Français"
+    weight = 2
+    url = "/fr"
+
+
+
+  [languages.cn]
+    
+    languageName = "中文"
+    weight = 3
+    url = "/cn"
+
+    
+
+  [languages.ko]
+    languageName = "한국의"
+    weight = 4
+    url = "/ko"
+
+
+    
+
+[languages.ar]
+    languageName = "العربية"
+    weight = 5
+    url = "/ar"
+   
+[languages.es]
+    languageName = "Español"
+    weight = 6
+    url = "/es"
+
+    [languages.nl]
+    languageName = "Nederlands"
+    weight = 7
+    url = "/nl"
+
+
+
+  [languages.cz]
+    languageName = "Čeština"
+    weight = 8
+    url = "/cz"
+
+
+[languages.de]
+    languageName = "Deutsch"
+    weight = 9
+    url = "/de"
+
+  
+
+
+    [languages.it]
+    languageName = "Italiano"
+    weight = 10
+    url = "/it"
+
+ [languages.pl]
+    languageName = "Polski"
+    weight = 11
+    url = "/pl"
+
+    [languages.ru]
+    languageName = "Русский"
+    weight = 12
+    url = "/ru"
+
+
+
+
+    [languages.no]
+    languageName = "Norsk"
+    weight = 13
+    url = "/no"
+
+
+    
+
+
+    
+
+    
+
+
+
+
+
+
+# Menu
+
+
+[[menu.main]]
+url = "/community/"
+name = "community"
+weight = 12
+
+[[menu.main]]
+url = "/specs-explained/"
+name = "bitcoinvertcoin"
+weight = 9
+
+[[menu.main]]
+url = "/mine/"
+name = "Mining Setup"
+weight = 11
+
+
+
+
+
+
+
+	
+	
+
+#Parameters
+
+
+[params]
+
+
+
+
+  [params.navigation]
+
+
+  [params.action]
+
+    [[params.navigationAction.item]]
+
+
+  [params.desktopDownload]
+
+
+    [[params.desktopButton.item]]
+
+
+
+
+
+
+
+# quickOverview 
+
+[params.quickOverview]
+    [[params.quickOverview.item]]
+    url = "/vertcoin-for-individuals"
+    [[params.quickOverview.item]]
+     url = "/vertcoin-for-businesses"
+    [[params.quickOverview.item]]
+    url = "/vertcoin-for-developers"
+
+
+# litPoints
+
+[params.litPoints]
+    [[params.litPoints.item]]
+    [[params.litPoints.item]]
+    [[params.litPoints.item]]
+
+
+# litboxPoints 
+
+[params.litboxPoints]
+    [[params.litboxPoints.item]]
+    [[params.litboxPoints.item]]
+    [[params.litboxPoints.item]]
+
+
+
+
+# litLinks
+
+    [params.litLinks]
+    [[params.litLinks.item]]
+    url = "https://github.com/mit-dci/lit"
+    target = "_blank"
+  
+
+# Adoption Links
+
+    [params.adoption]
+    [[params.adoption.item]]
+    url = "https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/"
+    target = "_blank"
+
+
+
+
+# Values
+
+ [params.values]
+    [[params.values.item]]
+    [[params.values.item]]
+    [[params.values.item]]
+
+
+
+  
+
+
+
+ [params.contact]
+
+
+
+
+  [params.footer]
+    enable = true
+    copyright = ''
+
+

@@ -1,0 +1,168 @@
+
+# Navigation
+
+    
+    [navigation_titles_merchants]
+    other = "Bitcoin vs Vertcoin"
+
+	
+	[navigation_titles_mine]
+    other = "Mining Setup"
+	
+	[navigation_titles_bitcoinvertcoin]
+    other = "Bitcoin vs Vertcoin"
+	
+	[navigation_titles_community]
+    other = "Community"
+	
+	
+	
+
+# What is Vertcoin
+
+   
+    [what_title]
+    other = "Vertcoin is GPU Minable Bitcoin"
+
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "Download Vertcoin Wallet/Miner"
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "Or get a quick overview for"
+
+    [quickOverview_0_title]
+    other = "Individuals"
+
+    [quickOverview_1_title]
+    other = "Businesses"
+
+    [quickOverview_2_title]
+    other = "Developers"
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "LIT: Multi-Coin Lightning Network"
+
+
+    [litPoints_0_title]
+    other = "Natively Multicoin"
+
+    [litPoints_1_title]
+    other = "Unified Lightning Network"
+
+    [litPoints_2_title]
+    other = "Fully Open Source"
+
+
+
+    [litDiagram_title]
+    other = "Current"
+
+
+
+    [lit_description]
+    other = "LIT is a lightning network implementation separate from LND/Eclair (Bolt Family) so it differs in the way its built. Instead of having a bunch of different different lightning networks, one for each coin, LIT implements all the coins into a single protocol making a single unified multicoin lightning network, rather than a fragmented subset of lightning networks. LIT is headed by Tadge Dryja the co-author of the Lightning Network whitepaper at MIT-DCI."
+
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "Crypto App Project"
+
+    [litboxPoints_0_title]
+    other = "Crypto Card"
+
+    [litboxPoints_1_title]
+    other = "Crypto Box"
+
+    [litboxPoints_2_title]
+    other = "Crypto Address"
+
+
+    [litBox_description]
+    other = "Crypto App is a Vertcoin project. The box takes care of all the hard parts about Cryptocurrency, lightning transactions or on-chain transactions and abstracts it all into a simple user interface controlled via your phone. It turns out to be pretty similar to the fiat banking/card payment system we all know and love today, but with crypto."
+
+
+
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "Join thousands of miners to support Vertcoin’s Network"
+    [oneClick_description]
+    other = "THE PEOPLE'S COIN"
+    [oneClick_download]
+    other = "Download One-Click Miner"
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = 'Vertcoin runs as close as possible to Cryptocurrency fundamentals, the whole "be your own bank" movement that started cryptocurrency to begin with. Vertcoin is chasing something entirely different from the ICO/Premine groups. We just want to change the financial system for the better.'
+
+
+
+# Values
+
+
+[values_0_title]
+    other = "No Premine"
+
+    [values_1_title]
+    other = "No ICO"
+
+    [values_2_title]
+    other = "No Airdrop"
+
+
+# Footer
+
+[donationRun_title]
+    other = "Vertcoin runs entirely on community <a href='/donate'>donations</a>."
+
+
+
+
+
+
+
+
+
+
+
+
+
+#donation page
+[donation_donated]
+other = "Donated"
+
+[donation_goal]
+other = "Donation goal"
+
+[donation_address]
+other = "VTC Donation Address"
+
+
+

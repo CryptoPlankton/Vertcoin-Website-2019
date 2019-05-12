@@ -1,0 +1,155 @@
+
+# Navigation
+
+    
+    [navigation_titles_merchants]
+    other = "التجار"
+
+	
+	[navigation_titles_trading]
+    other = "تجارة"
+	
+	[navigation_titles_mine]
+    other = "تعدين"
+	
+	[navigation_titles_community]
+    other = "المجتمع"
+	
+	
+	
+
+# What is Vertcoin
+
+   
+    [what_title]
+    other = "ما هو الفرتكوين؟"
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "إبدأ الآن مع الفرتكوين"
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "أو قم بإلقاء نظرة عامة سريعة"
+    [quickOverview_0_title]
+    other = "الأفراد"
+
+    [quickOverview_1_title]
+    other = "المصالح التجارية"
+
+    [quickOverview_2_title]
+    other = "المطورين"
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "الشبكةالمسرَّعة متعددة العملات"
+
+
+    [litPoints_0_title]
+    other = " متعددة العملات الأصلية"
+
+    [litPoints_1_title]
+    other = "الشبكة المسرَّعة الموحدة"
+
+    [litPoints_2_title]
+    other = "مصدر مفتوح بالكامل"
+
+
+
+    [litDiagram_title]
+    other = "حالية"
+
+
+
+    [lit_description]
+    other = "LIT هو تطبيق الشبكةالمسرَّعةوهو عبارة عن الكود الأصلي لـ Tadge Dryja المؤلّف المشارك لورقة عمل الشبكة المسرَّعة.يسمح LIT بالتشغيل المتبادل للعملة المعماة(المشفرة) متعددة العملات، والذي هو تقريباً معاملات فورية ومجانية، فهو يحل مشكلة التدريج ويتخلص من ازدحام الشبكة الذي يؤدي إلى ارتفاع رسوم المعاملات وتباطؤ سرعة المعاملات، LIT هو الحل الحقيقي للعملة المعماة مثل البيتكوين والفرتكوين واللايت كوين... وسريع."
+
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "تعرّف على LITbox: ’راوتر ‘ التشفير"  
+
+    [litboxPoints_0_title]
+    other = "عنوان واحد لعملاتك"
+
+    [litboxPoints_1_title]
+    other = "مدفوعات سريعة"
+
+    [litboxPoints_2_title]
+    other = "مقاوم للرقابة"
+
+
+    [litBox_description]
+    other = "LITbox هو مشروع الفرتكوين. إنه الجزء الأخير في إكمال نظام موثوق به وقابل للتطوير ومقاوم للرقابة وممكّن التسريع والذي هو سهل الاستخدام. لقد لعبنا اللعبة الطويلة طوال السنوات الأربع الماضية. المستقبل متعدد القنوات، متعدد العملات قريب جداً. هوالمستقبل، حيث سيستخدم الناس العملة المشفرة لشراء البقالة وحيث يقبلها التجار بسبب الرسوم المنخفضة للغاية (متأسفين أيها البنوك) ، تقود الفرتكوين واجهة مستخدم LITbox الثورية مما يجعلها في متناول المستخدمين العاديين والتجار وحتى آبائهم (فعلاً أيها الأباء والأمهات، لقد فكرنا بكم أيضاً) ."
+
+
+
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "انضموا إلى الآلاف من الرابحين لدعم شبكة الفرتكوين"
+    [oneClick_description]
+    other = "عملة الشعب"
+    [oneClick_download]
+    other = "Min-Click Minerقوموا بتنزيل "
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = 'تعمل الفرتكوين حسب أساسيات العملة المعماة قدر الإمكان، وحركة "أن تكون بنكك الخاص" بأكملها التي عملت على بدء العملة المعماة. إن فرتكوين تطارد شيئاً مختلفاً تماماً عن ICO/Premine وطاقم الضخ والتشغيل. نحن نريد فقط تغيير النظام المالي للأفضل.'
+
+
+
+# Values
+
+
+[values_0_title]
+    other = "لا يوجد تخصيص للمبالغ قبل الاطلاق"
+
+    [values_1_title]
+    other = "لا يوجد عرض للعملة الأولية"
+
+    [values_2_title]
+    other = "'Airdrop'لا يوجد" 
+
+
+# Footer
+
+[donationRun_title]
+    other = "تعمل الفرت كوين بالكامل على المجتمع <a href='/donate'>donations</a>."
+
+
+#donation page
+[donation_donated]
+other = "تبرع"
+
+[donation_goal]
+other = "أهداف التبرع"
+
+[donation_address]
+other =  'للتبرع"VTC "عنوان'
+
+
+
+
