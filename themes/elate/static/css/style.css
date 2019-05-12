@@ -104,8 +104,9 @@ img {
 }
 
 .bg-grey img {
-        width: 38px;
-    margin: 0 auto;
+        width: 37px;
+        margin: 0 auto;
+        max-height: 35px;
 }
 
 .w-1\/2 {
