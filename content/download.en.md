@@ -38,12 +38,13 @@ draft: false
 
 # One-Click Miner
 
-
+<a href="">Download the One-Click Miner (Windows)</a>
+<br>
+<br>
 
 <div class="flex flex-wrap align-center justify-center downloadPicture">
       <div class="w-full sm:w-1/2 md:w-1/3 px-4 mb-12">
         <img src="/images/oneclickminer.png" alt="One click miner screenshot">
-        <a class="block mt-8 text-lg bg-blue hover:bg-blue-dark rounded p-2 text-white" href="https://github.com/RavenProject/Ravencoin/releases" download=""><i class="zmdi zmdi-download"></i><span class="inline-block ml-3">Windows</span></a>
       </div>
     </div>
 

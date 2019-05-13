@@ -46,7 +46,7 @@ draft: false
         <h4><a href="https://www.reddit.com/r/VertcoinMining/" target="_blank">r/VertcoinMining</a></h4>
       </div>
       <div class="w-1/2 sm:w-1/4 mb-8">
-        <a href="https://github.com/vertProject/vertcoin" target="_blank">
+        <a href="https://github.com/vertcoin-project" target="_blank">
           <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
             <img src="../images/github.svg">
           </div>
