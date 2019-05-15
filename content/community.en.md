@@ -70,6 +70,14 @@ draft: false
         <h4><a href="https://medium.com/vertcoin-blog" target="_blank">Medium</a></h4>
       </div>
       <div class="w-1/2 sm:w-1/4 mb-8">
+        <a href="https://bitinfocharts.com/vertcoin/" target="_blank">
+          <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
+            <i class="zmdi zmdi-chart text-5xl text-white"></i>
+          </div>
+        </a>
+        <h4><a href="https://bitinfocharts.com/vertcoin/" target="_blank">Vertcoin Statistics</a></h4>
+      </div>
+      <div class="w-1/2 sm:w-1/4 mb-8">
         <a href="http://insight.vertcoin.org" target="_blank">
           <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
             <img src="../images/insight.svg">
