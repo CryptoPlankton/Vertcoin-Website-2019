@@ -38,7 +38,7 @@ draft: false
 
 # One-Click Miner
 
-<a href="">Download the One-Click Miner (Windows)</a>
+<a href="https://github.com/vertcoin-project/One-Click-Miner.git">Download the One-Click Miner (Windows - Latest)</a>
 <br>
 <br>
 
