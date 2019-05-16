@@ -12,7 +12,7 @@ draft: false
 
 </style>
 
-<a href="">Download the One-Click Miner (Windows)</a>
+<a href="https://github.com/vertcoin-project/One-Click-Miner/releases/download/1.2.3.0/VertcoinOneClickMinerSetup.msi">Download the One-Click Miner (Windows v1.2.3)</a>
 <br><br>
 <a href="">Download the Vertcoin Desktop Wallet (Windows - Mac)</a>
 <br><br>
