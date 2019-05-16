@@ -6,7 +6,7 @@ draft: false
 
 <div class="flex flex-wrap pt-16 pb-32 m-auto" style="max-width: 800px;">
       <div class="w-1/2 sm:w-1/4 mb-8">
-        <a href="https://www.vertcointalk.org/" target="_blank">
+        <a href="https://www.youtube.com/channel/UC7lBpTciARdSuRCQlFSe7Hw" target="_blank">
           <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
              <img src="../images/youtube.svg">
           </div>
