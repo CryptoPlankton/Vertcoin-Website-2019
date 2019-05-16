@@ -25,13 +25,13 @@ Built on Bitcoin, recieving any future Bitcoin updates upon spec confirmation.
 Has the same block time (2.5 mins) and same supply of coins as Litecoin (84,000,000).
 <span style="opacity: 0.4; display: block;">These changes are well within scaling limits of blockchain growth and orphan generation (>1:30)</span>
 <br><br>
-<br><br>
+
 
 
 <img src="../images/ethereum.png">
 
 <br><br>
-Mining algorithm extremely IO bound similar to Ethash called Verthash. This allows GPUs to mine competitvely.
+Mining algorithm IO bound similar to Ethash called Verthash, meaing GPUs mine competitvely.
 <br><br>
 <br><br>
 
