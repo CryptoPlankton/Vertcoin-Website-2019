@@ -3158,3 +3158,11 @@ tspan {
 .downloadPicture img {
         box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.15);
 }
+
+
+.specsBox {
+    background: #181a1b;
+    border-radius: 10px;
+    padding-top: 60px;
+    margin-bottom: 20px;
+}
