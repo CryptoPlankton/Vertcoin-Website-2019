@@ -20,7 +20,7 @@ These changes are well within scaling limits of blockchain growth and orphan gen
 <br><br>
 
 
-<img src="../images/eth.png">
+<img src="../images/ethereum.png">
 
 <br><br>
 Has a similar extremely memory bound mining algorithm to Ethash called Verthash.
