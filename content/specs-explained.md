@@ -4,6 +4,12 @@ date: 2018-01-12T01:30:50Z
 draft: false
 ---
 
+<style type="text/css">
+ img {
+  max-width: 53px;
+ }
+</style>
+
 
 <img src="../images/bitcoin.png">
 
@@ -25,7 +31,7 @@ Has the same block time (2.5 mins) and same supply of coins as Litecoin (84,000,
 <img src="../images/ethereum.png">
 
 <br><br>
-Has a similar extremely memory bound mining algorithm to Ethash called Verthash.
+Mining algorithm extremely IO bound similar to Ethash called Verthash. This allows GPUs to mine competitvely.
 <br><br>
 <br><br>
 
