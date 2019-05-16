@@ -17,9 +17,9 @@ draft: false
 
 
 
-# One-Click Miner
+# Vertcoin Wallet
 
-<a href="https://github.com/vertcoin-project/One-Click-Miner/releases/download/1.2.3.0/VertcoinOneClickMinerSetup.msi">Download the Vertcoin Wallet (Windows v1.2.3)</a>
+<a href="https://github.com/vertcoin-project/One-Click-Miner/releases/download/1.2.3.0/VertcoinOneClickMinerSetup.msi">Download the Vertcoin Wallet (Windows v18.0) (Mac v18.0)</a>
 <br>
 <br>
 
