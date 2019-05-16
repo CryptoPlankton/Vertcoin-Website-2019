@@ -52,7 +52,7 @@ If it says waiting for share or online you're done!
 
 
 <br><br>
-Not working, need help. Head over to <a href="https://discord.gg/vertcoin">Vertcoin Discord</a>.
+Not working, need help? Head over to <a href="https://discord.gg/vertcoin">Vertcoin Discord</a>.
 <br><br>
 
 
