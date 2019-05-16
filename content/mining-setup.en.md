@@ -51,3 +51,10 @@ If it says waiting for share or online you're done!
 <img src="../images/1click5.png">
 
 
+<br><br>
+If you need help head over to the discord mining channel.
+<br><br>
+
+
+<img src="../images/miningchannel.jpg">
+
