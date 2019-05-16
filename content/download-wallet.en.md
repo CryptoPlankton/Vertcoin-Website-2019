@@ -25,7 +25,7 @@ draft: false
 
 <div class="flex flex-wrap align-center justify-center downloadPicture">
       <div class="w-full sm:w-1/2 md:w-1/3 px-4 mb-12">
-        <img src="/images/oneclickminer.png" alt="One click miner screenshot">
+        <img src="/images/core.png" alt="One click miner screenshot">
       </div>
 </div>
 
