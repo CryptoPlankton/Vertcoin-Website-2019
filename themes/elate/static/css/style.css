@@ -17,6 +17,7 @@ flex-wrap:wrap;
 img {
     max-width: 100%;
     vertical-align: middle;
+    max-width: 52px;
 }
 
 
@@ -215,7 +216,7 @@ a:focus {
 p {
     margin-bottom: 1.5em;
     /* opacity: 0.75; */
-    max-width: 704px;
+    max-width: 721px;
     margin: 0 auto;
     color: #bbc2c8;
 }
@@ -1889,7 +1890,7 @@ h4 svg {
     /* max-width: 794px; */
     width: initial !important;
     /* background: #181A1B; */
-    max-width: 794px;
+    max-width: 1264px;
 }
 
 .button {

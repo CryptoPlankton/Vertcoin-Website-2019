@@ -17,7 +17,7 @@ Built on Bitcoin, recieving any future Bitcoin updates upon spec confirmation.
 
 <br><br>
 Vertcoin has the same block time (2.5 mins) and same supply of coins as Litecoin (84,000,000).
-These changes are well within scaling limits of blockchain growth and orphan generation (>1:30)
+<span style="opacity: 0.5;">These changes are well within scaling limits of blockchain growth and orphan generation (>1:30)</span>
 <br><br>
 <br><br>
 
@@ -33,7 +33,7 @@ Has a similar extremely memory bound mining algorithm to Ethash called Verthash.
 
 <br><br>
 Difficulty adjustment occurs every block (~2.5 minutes) as opposed to Bitcoin (~2 weeks).
-Kimoto Gravity Well is the algorithm used and is necessary as a smaller hashrate coin.
+<span style="opacity: 0.5;">Kimoto Gravity Well is the algorithm used and is necessary as a smaller hashrate coin.</span>
 <br><br>
 <br><br>
 
