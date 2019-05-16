@@ -1887,10 +1887,10 @@ h4 svg {
 }
 
 .container {
-    /* max-width: 794px; */
+    max-width: 794px;
     width: initial !important;
     /* background: #181A1B; */
-    max-width: 1264px;
+    /* max-width: 1264px; */
 }
 
 .button {
