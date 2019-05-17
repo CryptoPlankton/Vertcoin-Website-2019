@@ -9,6 +9,7 @@ draft: false
 .content-container {
       display: flex;
     justify-content: space-between;
+    max-width: 1124px;
 }
 
  img {
