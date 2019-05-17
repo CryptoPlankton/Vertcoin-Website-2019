@@ -19,7 +19,7 @@ draft: false
 
 # Vertcoin Wallet
 
-<a href="https://github.com/vertcoin-project/One-Click-Miner/releases/download/1.2.3.0/VertcoinOneClickMinerSetup.msi">Download the Vertcoin Wallet (Windows v18.0) (Mac v18.0)</a>
+Download the Vertcoin Wallet <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-win64.zip">(Windows v18.0)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-macos.dmg">(Mac v18.0)</a>
 <br>
 <br>
 
@@ -27,7 +27,7 @@ draft: false
       <div class="w-full sm:w-1/2 md:w-1/3 px-4 mb-12">
         <img src="/images/core.png" alt="One click miner screenshot">
       </div>
-      &copy;2009-2019 The Bitcoin Core developers
+      <span style="opacity: 0.4;">&copy;2009-2019 The Bitcoin Core developers</span>
 </div>
 
 
