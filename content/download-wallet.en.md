@@ -27,9 +27,10 @@ Download the Vertcoin Wallet <a href="https://github.com/vertcoin-project/vertco
       <div class="w-full sm:w-1/2 md:w-1/3 px-4 mb-12">
         <img src="/images/core.png" alt="One click miner screenshot">
       </div>
-      <span><a href="https://github.com/vertcoin-project/vertcoin-core/archive/0.14.0.zip">Source Code</a></span>
-      <span style="opacity: 0.4;">&copy;2009-2019 The Bitcoin Core developers</span>
+
 </div>
+ <span><a href="https://github.com/vertcoin-project/vertcoin-core/archive/0.14.0.zip">Source Code</a></span>
+      <span style="opacity: 0.4;">&copy;2009-2019 The Bitcoin Core developers</span>
 
 
 
