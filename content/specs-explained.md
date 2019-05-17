@@ -5,6 +5,12 @@ draft: false
 ---
 
 <style type="text/css">
+
+.content-container {
+      display: flex;
+    justify-content: space-between;
+}
+
  img {
   max-width: 53px;
  }
