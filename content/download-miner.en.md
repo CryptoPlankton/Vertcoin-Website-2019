@@ -19,6 +19,7 @@ draft: false
       <div class="w-full sm:w-1/2 md:w-1/3 px-4 mb-12">
         <img src="/images/oneclickminer.png" alt="One click miner screenshot">
       </div>
+      <span style="opacity: 0.4;">&copy;2014-2019 The Vertcoin Core developers</span>
     </div>
 
 
