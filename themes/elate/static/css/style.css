@@ -3166,4 +3166,15 @@ tspan {
     padding-top: 60px;
     margin-bottom: 20px;
     color: #bbc2c8;
+    max-width: 21%;
+    padding: 45px 26px 25px;
+    font-size: 13px;
+}
+
+.specsBox span {
+        margin-top: 1.5em;
+}
+
+.specsBox img {
+        margin-bottom: 1em;
 }
