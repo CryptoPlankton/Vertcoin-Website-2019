@@ -14,7 +14,7 @@ draft: false
 
 <a href="https://github.com/vertcoin-project/One-Click-Miner/releases/download/1.2.3.0/VertcoinOneClickMinerSetup.msi">Download the One-Click Miner (Windows v1.2.3)</a>
 <br><br>
-<a href="">Download the Vertcoin Desktop Wallet (Windows - Mac)</a>
+Download the Vertcoin Wallet v18.0 <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-win64.zip">(Windows)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-macos.dmg">(Mac)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-linux-amd64.zip">(Linux)</a>
 <br><br>
 <br><br>
 
