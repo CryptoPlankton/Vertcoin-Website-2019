@@ -13,6 +13,11 @@ Vertcoin was created as a GPU mined version of Bitcoin. This enables a greater s
 <br><br>
 Ethereum currently uses a mining algorithm similar to Verthash and <a href="https://howmanyconfs.com/" target="_blank">achieves security near that of Bitcoin</a>. It shows creating a dominant GPU profitable Bitcoin variant is possible.
 <br><br>
-Vertcoin is not funded nor controlled by any entity, it is simply an open source GPU Bitcoin variant that mirrors BTC development.
+<img src="../images/hashrate.png" style="    padding: 50px 30px;
+    background: #161819;
+    margin: 30px 0px 40px;
+    text-align: center;">
+In an ideal world, this second place would be taken by a GPU Bitcoin derivative. It would serve as a meaningful competitor to Bitcoin with a legitimate point of difference. 
+<br><br>
 
 
