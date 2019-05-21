@@ -21,7 +21,8 @@ draft: false
 <img src="../images/bitcoin.png">
 
 <br><br>
-Built on Bitcoin, recieving any future Bitcoin <a href="https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin/">updates</a> upon spec confirmation.
+Built on Bitcoin, recieving any future Bitcoin <a href="https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin/">updates</a> upon specification release confirmation.
+
 
 <span style="opacity: 0.4; display: block;">Vertcoin was the first coin to activate SegWit</span>
 <br><br>
