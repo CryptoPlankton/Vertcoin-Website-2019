@@ -158,6 +158,8 @@ a {
     /*---------*/
 }
 
+
+
 body {
     font-family: "Montserrat", PingFang SC, Hiragino Sans GB, Heiti SC, Microsoft YaHei, monospace;
     font-size: 15px;
@@ -169,6 +171,11 @@ body {
     overflow-x: hidden;
 }
 
+
+@media screen and (max-width: 767px) { body {
+    font-size: 13px;
+}
+}
 strong,
 tr {
 
@@ -965,7 +972,6 @@ h4 svg {
 }
 
 .wrapper p {
-    font-size: 15px;
     max-width: 891px;
     max-width: 891px;
     margin-left: auto;
