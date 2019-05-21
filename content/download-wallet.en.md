@@ -19,7 +19,7 @@ draft: false
 
 # Vertcoin Wallet
 
-Download the Vertcoin Wallet v18.0 <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-win64.zip">(Windows)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-macos.dmg">(Mac)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-linux-amd64.zip">(Linux)</a>
+Download the Vertcoin Wallet v14.0 <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-win64.zip">(Windows)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-macos.dmg">(Mac)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-linux-amd64.zip">(Linux)</a>
 <br>
 <br>
 
@@ -28,7 +28,6 @@ Download the Vertcoin Wallet v18.0 <a href="https://github.com/vertcoin-project/
         <img src="/images/core.png" alt="One click miner screenshot">
       </div>
       <span style="opacity: 0.4;">&copy;2009-2019 The Bitcoin Core developers</span>
-      <span style="opacity: 0.4;">&copy;©2014-2019 The Vertcoin Core developers</span>
       
 </div>
 
