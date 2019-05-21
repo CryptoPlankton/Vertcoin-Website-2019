@@ -2510,7 +2510,7 @@ section.separator-greenLine:before {
 
 
 .hideMobile {
-    display: block
+ 
 }
 
 @media screen and (max-width: 767px) {
@@ -2522,12 +2522,12 @@ section.separator-greenLine:before {
 
 
 .hideDesktop {
-    display: none
+    
 }
 
 @media screen and (min-width: 959px) {
     .hideDesktop {
-        display: block !important;
+        display: none !important;
     }
 }
 
