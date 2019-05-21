@@ -2891,6 +2891,16 @@ section.separator-greenLine:before {
     margin-top: 0em;
 }
 
+@media screen and (max-width: 767px) {
+
+    .bulletPoint {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+
+
 .bulletPoint div {
     max-width: 216px;
     display: flex;
@@ -3238,4 +3248,24 @@ tspan {
 
 .specsBox img {
         margin-bottom: 1em;
+}
+
+.bitcoinVsVertcoin {
+        display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.bitcoinVsVertcoin img {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 11px;
+}
+
+.opaque20 {
+    opacity: 0.2;
+}
+
+.coinHomePage {
+    text-align: center;
 }
