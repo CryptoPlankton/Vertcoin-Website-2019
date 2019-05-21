@@ -208,8 +208,8 @@ section {
 
 @media screen and (max-width: 767px) {
 section {
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 }
 
@@ -977,7 +977,7 @@ h4 svg {
     .wrapper h3 {
         font-size: 23px;
         font-size: 34px;
-        font-size: 27px;
+        font-size: 20px;
     }
 }
 
@@ -1645,6 +1645,11 @@ h4 svg {
     padding: 0px 24px;
 }
 
+@media screen and (max-width: 767px) {
+.footer-links {
+display: grid;
+}
+}
 
 
 .footer-links:before {
@@ -1658,6 +1663,13 @@ h4 svg {
     margin-bottom: 80px;
     display: block;
     margin-top: 80px;
+}
+
+@media screen and (max-width: 767px) {
+.footer-links:before{
+    margin-bottom: 35px;
+    margin-top: 32px;
+}
 }
 
 
