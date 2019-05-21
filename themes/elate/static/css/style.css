@@ -2519,6 +2519,22 @@ section.separator-greenLine:before {
     }
 }
 
+
+
+.hideDesktop {
+    display: none
+}
+
+@media screen and (min-width: 959px) {
+    .hideDesktop {
+        display: block !important;
+    }
+}
+
+
+
+
+
 .progress-bar-success {
     background: #329C71;
     background: #14b57c;
