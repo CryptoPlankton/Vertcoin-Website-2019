@@ -19,7 +19,6 @@ Ethereum currently uses a mining algorithm similar to Verthash and <a href="http
     background: #161819;
     margin: 30px 0px 40px;
     text-align: center;">
-<span style="opacity: 0.3">Credit to <a href="https://howmanyconfs.com/" target="_blank">howmanyconfs.com</a></span>
 In an ideal world, this second spot in hashrate would be filled by a GPU Bitcoin derivative. It would serve as a meaningful competitor to Bitcoin with a legitimate point of difference.
 <br><br>
 
