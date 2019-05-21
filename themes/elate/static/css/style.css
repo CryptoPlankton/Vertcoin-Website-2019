@@ -2646,8 +2646,8 @@ section.separator-greenLine:before {
 
 @media screen and (max-width: 767px) {
     #fh5co-header .navbar {
-        padding-left: 0px;
-        padding-right: 0px;
+        padding-left: 24px;
+        padding-right: 24px;
     }
 }
 
@@ -2664,6 +2664,8 @@ section.separator-greenLine:before {
     max-width: 1180px;
     display: flex;
     justify-content: space-between;
+    /* padding-left: 24px; */
+    /* padding-right: 24px; */
 }
 
 .intro {
