@@ -3269,3 +3269,8 @@ tspan {
 .coinHomePage {
     text-align: center;
 }
+
+.bitcoinExplanationImg {
+        max-width: 70px;
+    margin-bottom: 38px;
+}
