@@ -211,6 +211,7 @@ section {
     padding-left: 24px;
     padding-right: 24px;
 }
+}
 
 
 
@@ -2546,7 +2547,7 @@ section.separator-greenLine:before {
     
 }
 
-@media screen and (min-width: 959px) {
+@media screen and (min-width: 767px) {
     .hideDesktop {
         display: none !important;
     }
