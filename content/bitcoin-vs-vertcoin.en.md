@@ -6,7 +6,7 @@ draft: false
 ---
 
 
-Vertcoin had its first block back in Jan 2014. It was built <a href="">using Bitcoin as a base</a>. 
+Vertcoin had its first block back in Jan 2014. It was built <a href="https://github.com/vertcoin-project/vertcoin-core">using Bitcoin as a base</a>. 
 <br><br>
 Vertcoin was created as a GPU mined version of Bitcoin. This enables a greater spread of overall security long term compared to ASICs. If enough devices mine the network Vertcoin represents a viable alternative to the Bitcoin ASIC security model. 
 <br><br>
