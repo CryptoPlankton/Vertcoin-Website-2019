@@ -3274,3 +3274,7 @@ tspan {
         max-width: 70px;
     margin-bottom: 38px;
 }
+
+.vs {
+    padding-top: 16px;
+}
