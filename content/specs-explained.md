@@ -22,6 +22,8 @@ draft: false
 
 <br><br>
 Built on Bitcoin, recieving any future Bitcoin updates upon spec confirmation.
+
+<span style="opacity: 0.4; display: block;">Here's a list of some of Bitcoin's proposed future <a href="https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin/">upgrades</a></span>
 <br><br>
 <br><br>
 </div>
@@ -41,6 +43,7 @@ Has the same block time (2.5 mins) as Litecoin and same supply of coins (84,000,
 
 <br><br>
 The Mining algorithm is similar to Ethash (Verthash), meaning GPUs mine competitvely.
+<span style="opacity: 0.4; display: block;">This is important to ensure maximum distribution of hashrate (security). It is done via IO bound memory constraints.</span>
 <br><br>
 <br><br>
 </div>
