@@ -206,6 +206,15 @@ section {
     margin-top: 72px;
 }
 
+@media screen and (max-width: 767px) {
+section {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+
+
+
 
 a {
     color: #048657;
@@ -1899,6 +1908,8 @@ h4 svg {
     /* max-width: 1264px; */
 }
 
+
+
 .button {
     border-radius: 0px;
     padding: 13px 34px;
@@ -1911,6 +1922,15 @@ h4 svg {
     font-weight: 400;
     margin-top: -10px;
 }
+
+@media screen and (max-width: 767px) {
+.button {
+    font-size: 13px;
+    width: 325px;
+}
+
+}
+
 
 .button:hover {
     text-decoration: none;
