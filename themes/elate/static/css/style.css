@@ -1647,9 +1647,7 @@ h4 svg {
 }
 
 @media screen and (max-width: 767px) {
-.footer-links {
-display: grid;
-}
+.footer-links {display: grid;width: 100%;max-width: 325px;}
 
 .footer-distributed {
    padding-top: 15px;
@@ -1659,7 +1657,7 @@ display: grid;
 
 .footer-links:before {
     content: "";
-    width: 338px;
+    max-width: 338px;
     height: 1px;
     background: #ffffff1c;
     text-align: center;
@@ -1668,6 +1666,7 @@ display: grid;
     margin-bottom: 80px;
     display: block;
     margin-top: 80px;
+    width: 100%;
 }
 
 @media screen and (max-width: 767px) {
@@ -1686,6 +1685,7 @@ display: grid;
     margin-bottom: 20px;
     margin-top: 7px;
     opacity: 0.6;
+    max-width: 330px;
 }
 
 
@@ -1944,7 +1944,8 @@ display: grid;
 @media screen and (max-width: 767px) {
 .button {
     font-size: 13px;
-    width: 325px;
+    max-width: 325px;
+    width: 100%;
 }
 
 }
@@ -3277,4 +3278,17 @@ tspan {
 
 .vs {
     padding-top: 16px;
+}
+
+.singleHeader {
+    font-size: 42px;
+    margin-top: 0px;
+    line-height: 1.5;
+    margin-bottom: 1.5em;
+}
+
+@media screen and (max-width: 767px) {
+   .singleHeader {
+    font-size: 20px;
+   } 
 }
