@@ -7,7 +7,7 @@ draft: false
 
 <img class="bitcoinExplanationImg" src="../images/builtonbitcoin.png">
 <br>
-Vertcoin had its first block back in Jan 2014. It was built <a href="https://github.com/vertcoin-project/vertcoin-core">using Bitcoin as a base</a>. 
+Vertcoin had its first block back in Jan 2014. It was built <a href="https://chainz.cryptoid.info/vtc/block.dws?9249c198d4b1ca38bb92a740d6557df80e746108384552509225e7825556ebdf.htm" target="_blank">using Bitcoin as a base</a>. 
 <br><br>
 <span style="opacity: 0.3">Credits to the Bitcoin Core developers who develop the Bitcoin Core software.</span>
 <br><br>
