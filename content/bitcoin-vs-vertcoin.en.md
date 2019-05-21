@@ -13,7 +13,8 @@ Vertcoin had its first block back in Jan 2014. It was built <a href="https://git
 <br><br>
 Vertcoin was created as a GPU mined version of Bitcoin. This enables a greater spread of overall security long term compared to ASICs. If enough devices mine the network, Vertcoin represents a viable alternative to the Bitcoin ASIC mined security model.
 <br><br>
-Ethereum currently uses a mining algorithm similar to Verthash and <a href="https://howmanyconfs.com/" target="_blank">achieves security near that of Bitcoin</a>. It shows creating a dominant GPU profitable Bitcoin variant is possible.
+
+Ethereum currently uses a mining algorithm similar to the proposed Verthash mining algorithm and <a href="https://howmanyconfs.com/" target="_blank">achieves security near that of Bitcoin</a>, which means the task is achieveable.
 <br><br>
 <img src="../images/hashrate.png" style="    padding: 50px 30px;
     background: #161819;
