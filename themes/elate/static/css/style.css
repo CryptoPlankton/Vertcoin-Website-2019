@@ -110,6 +110,13 @@ img {
         max-height: 35px;
 }
 
+
+@media (min-width: 768px) {
+    .bg-grey img {
+        max-height: 27px; 
+    }
+}
+
 .w-1\/2 {
     width: 50%;
 }
@@ -1709,8 +1716,8 @@ h4 svg {
 }
 
 .singleFooter footer {
-    padding-left: 27px;
-    padding-right: 27px;
+    /* padding-left: 27px; */
+    /* padding-right: 27px; */
 }
 
 
