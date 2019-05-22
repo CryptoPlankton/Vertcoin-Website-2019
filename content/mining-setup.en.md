@@ -12,6 +12,7 @@ draft: false
 
 .content-container img {
     max-width: 100%;
+    max-width: 440px;
 }
 
 
