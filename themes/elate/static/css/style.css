@@ -3322,9 +3322,10 @@ tspan {
 .mobileNav {
     list-style: none;
     display: inline-flex;
-    margin-top: 33px;
+    margin-top: 34px;
 }
 
 .mobileNav li {
-    margin-left: 27px;
+    margin-left: 28px;
+    color: #a5a6a7;
 }
