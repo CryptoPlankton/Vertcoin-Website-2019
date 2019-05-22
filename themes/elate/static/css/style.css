@@ -1686,7 +1686,7 @@ h4 svg {
     margin-bottom: 20px;
     margin-top: 7px;
     opacity: 0.6;
-    max-width: 330px;
+   
 }
 
 
@@ -1694,6 +1694,7 @@ h4 svg {
 @media screen and (max-width: 1024px) {
     .footer-links a {
         margin-top: 0px;
+         width: 100%;
     }
 }
 

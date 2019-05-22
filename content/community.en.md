@@ -4,6 +4,12 @@ date: 2018-01-12T01:30:50Z
 draft: false
 ---
 
+<style type="text/css">
+  a {
+    color: #a5a6a7;
+  }
+</style>
+
 <div class="flex flex-wrap pt-16 pb-32 m-auto" style="max-width: 800px;">
       <div class="w-1/2 sm:w-1/4 mb-8">
         <a href="https://www.youtube.com/channel/UC7lBpTciARdSuRCQlFSe7Hw" target="_blank">
