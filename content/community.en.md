@@ -28,7 +28,7 @@ draft: false
         <h4><a href="https://twitter.com/vertcoin" target="_blank">Twitter</a></h4>
       </div>
       <div class="w-1/2 sm:w-1/4 mb-8">
-        <a href="https://discord.gg/jn6uhur" target="_blank">
+        <a href="https://discord.gg/vertcoin" target="_blank">
           <div class="mb-6 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark" style="padding-top: 1.75em;padding-bottom: 1.75em;">
             <img src="../images/discord.svg">
           </div>
@@ -44,7 +44,7 @@ draft: false
         <h4><a href="https://www.reddit.com/r/vertcoin/" target="_blank">r/Vertcoin</a></h4>
       </div>
       <div class="w-1/2 sm:w-1/4 mb-8">
-        <a href="https://www.reddit.com/r/RVNMiner/" target="_blank">
+        <a href="https://www.reddit.com/r/VertcoinMining/" target="_blank">
           <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
             <img src="../images/reddit.svg">
           </div>
@@ -60,7 +60,7 @@ draft: false
         <h4><a href="https://github.com/vertcoin-project" target="_blank">Github</a></h4>
       </div>
       <div class="w-1/2 sm:w-1/4 mb-8">
-        <a href="https://vert.wiki/wiki/vertcoin_Wiki" target="_blank">
+        <a href="https://en.wikipedia.org/wiki/Vertcoin" target="_blank">
           <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
             <img src="../images/wikipedia.svg">
           </div>
@@ -68,7 +68,7 @@ draft: false
         <h4><a href="https://en.wikipedia.org/wiki/Vertcoin" target="_blank">Wikipedia</a></h4>
       </div>
       <div class="w-1/2 sm:w-1/4 mb-8">
-        <a href="https://medium.com/@vertcoin" target="_blank">
+        <a href="https://medium.com/vertcoin-blog" target="_blank">
           <div class="mb-6 py-6 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
             <img src="../images/medium.svg">
           </div>
