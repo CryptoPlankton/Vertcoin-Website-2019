@@ -23,7 +23,7 @@ draft: false
 Built on Bitcoin, receiving any future Bitcoin <a href="https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin/">updates</a> upon specification release confirmation.
 
 
-<span style="opacity: 0.4; display: block;">Vertcoin was the first coin to activate SegWit</span>
+<span style="opacity: 0.4; display: block;">Vertcoin was the first coin to lock in and activate SegWit when released in 2017.</span>
 <br><br>
 <br><br>
 </div>
