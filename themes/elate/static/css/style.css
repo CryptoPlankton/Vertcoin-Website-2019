@@ -3343,3 +3343,10 @@ tspan {
     margin-left: 29px;
     color: #a5a6a7;
 }
+
+
+@media screen and (max-width: 767px) {
+h4, .h4 {
+    font-size: 14px;
+}
+}
