@@ -7,6 +7,11 @@ draft: false
 <style type="text/css">p img {
       max-width: 440px;
     margin-bottom: 28px;
+
+}
+
+.content-container img {
+    max-width: 100%;
 }
 
 
