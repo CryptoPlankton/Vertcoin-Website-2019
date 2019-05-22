@@ -950,7 +950,7 @@ table {
     text-transform: initial;
     line-height: 1.4;
     margin-bottom: 1.25em;
-    font-family: Gotham Bold;
+    font-family: "Gotham Bold", "Montserrat", PingFang SC, Hiragino Sans GB, Heiti SC, Microsoft YaHei, monospace;
 }
 
 .wrapper h4 {
@@ -3310,4 +3310,10 @@ tspan {
     .specsBox {
         max-width: none;
     }
+}
+
+.miningalgo {
+        height: 51px;
+    width: auto;
+    max-width: none;
 }

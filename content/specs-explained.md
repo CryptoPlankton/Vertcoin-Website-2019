@@ -6,7 +6,11 @@ draft: false
 
 <style type="text/css">
 
-
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1124px;
+}
 
  img {
   max-width: 53px;
@@ -23,7 +27,7 @@ draft: false
 Built on Bitcoin, receiving any future Bitcoin <a href="https://bitcoinmagazine.com/articles/taproot-coming-what-it-and-how-it-will-benefit-bitcoin/">updates</a> upon specification release confirmation.
 
 
-<span style="opacity: 0.4; display: block;">Vertcoin was the first coin to lock in and activate SegWit when released in 2017.</span>
+<span style="opacity: 0.4; display: block;">Vertcoin was the first coin to lock in and activate SegWit. It was activated May 7, 2017</span>
 <br><br>
 <br><br>
 </div>
@@ -32,7 +36,7 @@ Built on Bitcoin, receiving any future Bitcoin <a href="https://bitcoinmagazine.
 <img src="../images/litecoin.png">
 
 <br><br>
-Has the same block time (2.5 mins) as Litecoin and same supply of coins (84,000,000).
+Has the same block time (2.5 mins) as Litecoin and same supply of coins (84,000,000 coins).
 <span style="opacity: 0.4; display: block;">These changes are well within scaling limits of blockchain growth and orphan generation (>1:30)</span>
 <br><br>
 </div>
@@ -50,7 +54,7 @@ Mining algorithm similar to Ethereum's Ethash (Verthash), meaning GPUs mine comp
 
 
 <div class="specsBox">
-<img src="../images/kgw.png">
+<img class="miningalgo" src="../images/kgw.png">
 
 <br><br>
 Difficulty adjustment occurs every block (~2.5 minutes) as opposed to Bitcoin (~2 weeks).
