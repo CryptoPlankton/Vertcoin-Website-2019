@@ -2739,7 +2739,6 @@ section.separator-greenLine:before {
 
 @media screen and (max-width: 1024px) {
     .content-container img {
-        width: 100%;
     }
 }
 
@@ -3323,6 +3322,7 @@ tspan {
     }
     .specsBox {
         max-width: none;
+        margin: 0px 18px 20px;
     }
 }
 
