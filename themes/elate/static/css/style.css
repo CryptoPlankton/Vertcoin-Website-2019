@@ -950,7 +950,7 @@ table {
     text-transform: initial;
     line-height: 1.4;
     margin-bottom: 1.25em;
-    font-family: "Gotham Bold", "Montserrat", PingFang SC, Hiragino Sans GB, Heiti SC, Microsoft YaHei, monospace;
+    font-family: Gotham Bold;
 }
 
 .wrapper h4 {
@@ -3255,8 +3255,9 @@ tspan {
 
 .bitcoinVsVertcoin {
         display: flex;
-    margin: 0 auto;
-    justify-content: space-around;
+        margin: 0 auto;
+        justify-content: space-around;
+        padding: 0px 20px;
 }
 
 .bitcoinVsVertcoin img {
@@ -3293,27 +3294,4 @@ tspan {
    .singleHeader {
     font-size: 20px;
    } 
-}
-
-
-.specsBox_container {
-      display: flex;
-    justify-content: space-between;
-    max-width: 1124px;
-}
-
-@media screen and (max-width: 767px) {
-    .specsBox_container {
-        display: inline-block;
-
-    }
-    .specsBox {
-        max-width: none;
-    }
-}
-
-.miningalgo {
-        height: 51px;
-    width: auto;
-    max-width: none;
 }
