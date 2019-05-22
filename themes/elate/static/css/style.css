@@ -3257,7 +3257,7 @@ tspan {
     display: flex;
     margin: 0 auto;
     justify-content: space-around;
-    padding: 0px 10px;
+    padding: 0px 12px;
 }
 
 .bitcoinVsVertcoin img {
@@ -3317,4 +3317,14 @@ tspan {
         height: 51px;
     width: auto;
     max-width: none;
+}
+
+.mobileNav {
+    list-style: none;
+    display: inline-flex;
+    margin-top: 33px;
+}
+
+.mobileNav li {
+    margin-left: 27px;
 }
