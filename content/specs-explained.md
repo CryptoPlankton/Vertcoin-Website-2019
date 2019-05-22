@@ -6,16 +6,15 @@ draft: false
 
 <style type="text/css">
 
-.content-container {
-      display: flex;
-    justify-content: space-between;
-    max-width: 1124px;
-}
+
 
  img {
   max-width: 53px;
  }
 </style>
+
+
+<div class="specsBox_container">
 
 <div class="specsBox">
 <img src="../images/bitcoin.png">
@@ -59,8 +58,7 @@ Difficulty adjustment occurs every block (~2.5 minutes) as opposed to Bitcoin (~
 <br><br>
 <br><br>
 </div>
-
-
+</div>
 
 
 

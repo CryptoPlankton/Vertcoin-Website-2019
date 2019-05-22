@@ -3294,3 +3294,20 @@ tspan {
     font-size: 20px;
    } 
 }
+
+
+.specsBox_container {
+      display: flex;
+    justify-content: space-between;
+    max-width: 1124px;
+}
+
+@media screen and (max-width: 767px) {
+    .specsBox_container {
+        display: inline-block;
+
+    }
+    .specsBox {
+        max-width: none;
+    }
+}
