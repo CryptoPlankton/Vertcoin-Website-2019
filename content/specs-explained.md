@@ -46,8 +46,8 @@ Has the same block time (2.5 mins) as Litecoin and same supply of coins (84,000,
 <img src="../images/ethereum.png">
 
 <br><br>
-Mining algorithm similar to Ethereum's Ethash (Verthash), meaning GPUs mine competitively.
-<span style="opacity: 0.4; display: block;">This ensures maximum distribution of hashrate (security). It is done via IO bound memory constraints.</span>
+Mining algorithm proposed similar to Ethereum's Ethash (Verthash), meaning GPUs mine competitively.
+<span style="opacity: 0.4; display: block;">This ensures maximum distribution of hashrate (security). It is done via IO bound memory constraints. Lyra2rev3 is currently in use.</span>
 <br><br>
 <br><br>
 </div>
