@@ -1718,6 +1718,7 @@ h4 svg {
 .singleFooter footer {
     /* padding-left: 27px; */
     /* padding-right: 27px; */
+    margin-top: 20px;
 }
 
 
@@ -3270,7 +3271,7 @@ tspan {
 .bitcoinVsVertcoin img {
     width: 48px;
     height: 48px;
-    margin-bottom: 11px;
+    margin-bottom: 12px;
 }
 
 .opaque20 {
