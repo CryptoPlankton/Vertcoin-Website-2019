@@ -111,7 +111,7 @@ img {
 }
 
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .bg-grey img {
         max-height: 27px; 
     }
