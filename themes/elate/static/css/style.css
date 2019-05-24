@@ -3229,10 +3229,10 @@ tspan {
 .mainNav {
         position: absolute;
         margin: 0 auto;
-        width: 100%;
+        width: -webkit-fill-available;
         left: 0px;
-        padding-right: 215px;
-        padding-left: 180px;
+        margin-right: 215px;
+        margin-left: 180px;
         padding-top: 28px;
         opacity: 0.6;
         z-index: 0;
