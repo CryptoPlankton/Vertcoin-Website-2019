@@ -8,12 +8,22 @@
   </url>
   
   <url>
+    <loc>https://vertcoin.org/bitcoin-vs-vertcoin/</loc>
+    <lastmod>2018-01-12T01:30:50+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vertcoin.org/community/</loc>
     <lastmod>2018-01-12T01:30:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vertcoin.org/download/</loc>
+    <loc>https://vertcoin.org/download-miner/</loc>
+    <lastmod>2018-01-12T01:30:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vertcoin.org/download-wallet/</loc>
     <lastmod>2018-01-12T01:30:50+00:00</lastmod>
   </url>
   
@@ -23,43 +33,13 @@
   </url>
   
   <url>
-    <loc>https://vertcoin.org/mine/</loc>
+    <loc>https://vertcoin.org/mining-setup/</loc>
     <lastmod>2018-01-12T01:30:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vertcoin.org/specs-explained/</loc>
     <lastmod>2018-01-12T01:30:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vertcoin.org/vertcoin-for-businesses/</loc>
-    <lastmod>2018-01-12T01:30:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vertcoin.org/vertcoin-for-developers/</loc>
-    <lastmod>2018-01-12T01:30:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vertcoin.org/vertcoin-for-individuals/</loc>
-    <lastmod>2018-01-12T01:30:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vertcoin.org/whatismining/</loc>
-    <lastmod>2018-01-12T01:30:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vertcoin.org/merchants/</loc>
-    <lastmod>2018-01-09T01:51:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vertcoin.org/trading/</loc>
-    <lastmod>2018-01-09T01:51:53+00:00</lastmod>
   </url>
   
   <url>

@@ -986,7 +986,7 @@ h4 svg {
     .wrapper h3 {
         font-size: 23px;
         font-size: 34px;
-        font-size: 20px;
+        font-size: 18px;
     }
 }
 
@@ -3306,7 +3306,7 @@ tspan {
 
 @media screen and (max-width: 767px) {
    .singleHeader {
-    font-size: 20px;
+    font-size: 18px;
    } 
 }
 

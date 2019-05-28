@@ -16,8 +16,16 @@
       <pubDate>Wed, 17 Jan 2018 01:00:00 +0200</pubDate>
       
       <guid>https://vertcoin.org/donate/</guid>
-      <description>Since Vertcoin did not have an ICO (Initial Coin Offering), or pre-mine (allocation of currency at the launch of the network), the development team has to rely on community donations for their funding. Whilst the developers work as volunteers and do not get paid a salary, they do make costs to advance the project. On this page, we have detailed a number of donation goals that require additional funds.
-You can select the goal that mosts suits you; we pledge to use the funding on the designated goal, and account for these in our monthly development update.</description>
+      <description>Since Vertcoin did not have an ICO (Initial Coin Offering) or pre-mine (allocation of currency at the launch of the network), the development team relies on community donations for their funding. Whilst the developers work as volunteers and do not get paid a salary, they do make costs to advance the project. On this page, we have detailed a number of donation goals that require additional funds. You may select the goal that mosts suits you; we pledge to use the funding on the designated goal and account for these in our monthly development update.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin vs Vertcoin</title>
+      <link>https://vertcoin.org/bitcoin-vs-vertcoin/</link>
+      <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
+      
+      <guid>https://vertcoin.org/bitcoin-vs-vertcoin/</guid>
+      <description>Vertcoin had its first block back in Jan 2014. It was built using Bitcoin as a base. Credits to the Bitcoin Core developers who develop the Bitcoin Core software. Vertcoin was created as a GPU mined version of Bitcoin. This enables greater spread of security long term compared to ASICs. If enough devices mine the network, Vertcoin represents a viable alternative to the Bitcoin ASIC mined security model. Ethereum currently uses a mining algorithm similar to the proposed Verthash mining algorithm and achieves security near that of Bitcoin, which means the task is achieveable.</description>
     </item>
     
     <item>
@@ -26,17 +34,25 @@ You can select the goal that mosts suits you; we pledge to use the funding on th
       <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
       
       <guid>https://vertcoin.org/community/</guid>
-      <description>Vertcoin did not have an ICO or Premine, as taking a large portion of a potential global currency is practically fraud. We&amp;rsquo;re constantly looking for more people to help out and build Vertcoin. Below we have listed some ways that you can help out the Vertcoin Community, whether that be accepting Vertcoin as a business or develop code for next-generation applications, everyone can help out.
-Add Vertcoin as Payment If you are a store owner, you can accept VTC in your store and help adoption of the currency.</description>
+      <description>a { color: #a5a6a7; }    Vertcoin Talk    Twitter    Discord    r/Vertcoin    r/VertcoinMining    Github    Wikipedia    Medium    Vertcoin Statistics    Insight Explorer   </description>
     </item>
     
     <item>
       <title>Download</title>
-      <link>https://vertcoin.org/download/</link>
+      <link>https://vertcoin.org/download-miner/</link>
       <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
       
-      <guid>https://vertcoin.org/download/</guid>
-      <description>Vertcoin Core (Most Secure) This is the Vertcoin reference client (forked from upstream Bitcoin Core) and forms the backbone of the Vertcoin Network. Vertcoin Core is a trustless wallet meaning that you download and verify the entire blockchain history for yourself. Additionally, you help to redistribute the blockchain to new users, ferry transactions around the network and help prevent eclipse attacks. If you intend to mine Vertcoin, the Core wallet is a requirement.</description>
+      <guid>https://vertcoin.org/download-miner/</guid>
+      <description> One-Click Miner Download the One-Click Miner v1.2.3(Windows)  &amp;copy;2014-2019 The Vertcoin Core developers  </description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>https://vertcoin.org/download-wallet/</link>
+      <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
+      
+      <guid>https://vertcoin.org/download-wallet/</guid>
+      <description> Vertcoin Wallet Download the Vertcoin Wallet v14.0 (Windows) (Mac) (Linux)  &amp;copy;2009-2019 The Bitcoin Core developers  </description>
     </item>
     
     <item>
@@ -50,15 +66,16 @@ Add Vertcoin as Payment If you are a store owner, you can accept VTC in your sto
     </item>
     
     <item>
-      <title>Mine Vertcoin</title>
-      <link>https://vertcoin.org/mine/</link>
+      <title>Mining Setup</title>
+      <link>https://vertcoin.org/mining-setup/</link>
       <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
       
-      <guid>https://vertcoin.org/mine/</guid>
-      <description>Mining secures the Vertcoin network and rewards the people securing it with Vertcoin.
-Mining Explained Article
-Because Vertcoin is dedicated to keeping mining accessible to everyone, all you need to get started is an ordinary desktop computer with a modern graphics card (GPU). Highend, newer graphics cards yield better results than lowend or older ones.
-Simple: One-Click Miner The Vertcoin One-Click Miner is by far the easiest way to get started.</description>
+      <guid>https://vertcoin.org/mining-setup/</guid>
+      <description>p img { max-width: 440px; margin-bottom: 28px; } .content-container img { width: 100%; max-width: 440px; }  Download the One-Click Miner v1.2.3(Windows) Download the Vertcoin Wallet v14.0 (Windows) (Mac) (Linux) Install it Click next 
+Click &amp;ldquo;Find P2Pool Nodes&amp;rdquo; 
+Enter your wallet address 
+If it says waiting for share or online you&amp;rsquo;re done! 
+Not working, need help? Head over to Vertcoin Discord. </description>
     </item>
     
     <item>
@@ -67,69 +84,7 @@ Simple: One-Click Miner The Vertcoin One-Click Miner is by far the easiest way t
       <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
       
       <guid>https://vertcoin.org/specs-explained/</guid>
-      <description>No Fluff. Everything Explained. Blockchain specs are highly complicated and are often completely misunderstood. It&amp;rsquo;s extremely hard to find specification explanations that are written in laymans english. This is a great chance to show why Vertcoin is built the way it is.
-&amp;lsquo;Marketing speak&amp;rsquo; has currently ruined the Cryptocurrency space. The space full of people who have no clue what they&amp;rsquo;re talking about&amp;hellip;talking about specs of which they have no idea the implications of.</description>
-    </item>
-    
-    <item>
-      <title>Vertcoin For Businesses</title>
-      <link>https://vertcoin.org/vertcoin-for-businesses/</link>
-      <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
-      
-      <guid>https://vertcoin.org/vertcoin-for-businesses/</guid>
-      <description>If you are a store owner, you can accept VTC in your store and help adoption of our currency. You can add yourself to this list by visiting us on discord or on the Vertcoin subreddit.
-Control your fees There is no fee to receive Vertcoins. And if you’re making payments, you control how large a fee to pay when spending. Fees are unrelated to the amount transferred, so it’s possible to send 1,000,000 Vertcoins for the same fee it costs to send 1 Vertcoin.</description>
-    </item>
-    
-    <item>
-      <title>Vertcoin For Developers</title>
-      <link>https://vertcoin.org/vertcoin-for-developers/</link>
-      <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
-      
-      <guid>https://vertcoin.org/vertcoin-for-developers/</guid>
-      <description>If you are a store owner, you can accept VTC in your store and help adoption of our currency.
-Plug and pay Accepting Vertcoin is as simple as sending one. The setup is simple and can work across wide range of clients and can be especially suitable for transparent donations and tips.
-Third Party APIs It’s easy to find payment processing services that provide APIs; you don’t need to store Vertcoins on your server and handle the security that this implies.</description>
-    </item>
-    
-    <item>
-      <title>Vertcoin For Individuals</title>
-      <link>https://vertcoin.org/vertcoin-for-individuals/</link>
-      <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
-      
-      <guid>https://vertcoin.org/vertcoin-for-individuals/</guid>
-      <description>Vertcoin is the easiest way to transact at a very low cost, meaning credit cards no longer have a monopoly on the finance industry.
-Mobile payments made easy Vertcoin when used on a mobile device allows you to pay with a simple two-step scan-and-pay. There&amp;rsquo;s no need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Vertcoin payments is to display the QR code in your Vertcoin wallet app and let the other party scan your mobile, or touch the two phones together (using NFC radio technology).</description>
-    </item>
-    
-    <item>
-      <title>What Is Mining</title>
-      <link>https://vertcoin.org/whatismining/</link>
-      <pubDate>Fri, 12 Jan 2018 01:30:50 +0000</pubDate>
-      
-      <guid>https://vertcoin.org/whatismining/</guid>
-      <description>What is mining? When users of our network send each other Vertcoin, their transactions are secured by a process called mining. Miners will compose a so-called block out of the pending transactions, and need to perform a large number of computations called hashes in order to produce the Proof-of-Work. With this Proof-of-Work, the block is accepted by the network and the transactions in it become confirmed.
-Mining is essentially a race.</description>
-    </item>
-    
-    <item>
-      <title>Merchants</title>
-      <link>https://vertcoin.org/merchants/</link>
-      <pubDate>Tue, 09 Jan 2018 01:51:53 +0000</pubDate>
-      
-      <guid>https://vertcoin.org/merchants/</guid>
-      <description>Vertcoin is almost a drop-in replacement for Bitcoin so if you already support Bitcoin, Vertcoin should be trivial to support. You can add yourself to our merchant list by visiting us on discord or on the Vertcoin subreddit.
-Payment Gateways Payment gateways accept Vertcoin on your behalf and give you your national currency in return. CoinPayments is currently the preferred method of accepting Vertcoin for your online business. CoinPayments charges a 0.</description>
-    </item>
-    
-    <item>
-      <title>Trading</title>
-      <link>https://vertcoin.org/trading/</link>
-      <pubDate>Tue, 09 Jan 2018 01:51:53 +0000</pubDate>
-      
-      <guid>https://vertcoin.org/trading/</guid>
-      <description>You can trade Vertcoin for other cryptocurrencies or for your national currency using an exchange. Brokers provide trading options that do not require an account for a worse rate and higher fee. It is also possible to meet up in-person and trade using your preferred method of transfer.
-Exchanges Exchanges are where you trade with other people. A traditional market order book is maintained that matches buyers and sellers who wish to trade at the same price.</description>
+      <description>.content-container { display: flex; justify-content: space-between; max-width: 1124px; } img { max-width: 53px; }  Built on Bitcoin, receiving any future Bitcoin updates upon specification release confirmation. Vertcoin was the first coin to lock in and activate SegWit. It was activated May 7, 2017  Has the same block time (2.5 mins) as Litecoin and same supply of coins (84,000,000 coins). These changes are well within scaling limits of blockchain growth and orphan generation (1:30)  Mining algorithm proposed is similar to Ethereum&#39;s Ethash (Verthash), meaning GPUs mine competitively.</description>
     </item>
     
   </channel>

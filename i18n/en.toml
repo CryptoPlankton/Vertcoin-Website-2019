@@ -22,8 +22,8 @@
 
    
     [what_title]
-    other = "Vertcoin is GPU Minable Bitcoin"
-    
+    other = "Vertcoin is a GPU Mineable Bitcoin"
+
 
 
 # Get Started Button
@@ -53,16 +53,6 @@
 
 [donationRun_title]
     other = "Vertcoin runs entirely on community <a href='/donate'>donations</a>."
-
-
-
-
-
-
-
-
-
-
 
 
 
