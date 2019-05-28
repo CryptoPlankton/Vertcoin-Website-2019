@@ -81,7 +81,7 @@ draft: false
             <img src="../images/bitinfo.svg">
           </div>
         </a>
-        <h4><a href="https://bitinfocharts.com/vertcoin/" target="_blank">Vertcoin Statistics</a></h4>
+        <h4><a href="https://bitinfocharts.com/vertcoin/" target="_blank">Bitinfo Charts</a></h4>
       </div>
       <div class="w-1/2 sm:w-1/4 mb-8">
         <a href="http://insight.vertcoin.org" target="_blank">
@@ -91,4 +91,20 @@ draft: false
         </a>
         <h4><a href="http://insight.vertcoin.org" target="_blank">Insight Explorer</a></h4>
       </div>
+       <div class="w-1/2 sm:w-1/4 mb-8">
+        <a href="https://chainz.cryptoid.info/vtc/" target="_blank">
+          <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
+            <img src="../images/ID.svg">
+          </div>
+        </a>
+        <h4><a href="https://chainz.cryptoid.info/vtc/" target="_blank">CryptoID Explorer</a></h4>
+      </div>
+      <!-- <div class="w-1/2 sm:w-1/4 mb-8">
+        <a href="https://vtc5.trezor.io/" target="_blank">
+          <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
+            <img src="../images/trezor.svg">
+          </div>
+        </a>
+        <h4><a href="https://vtc5.trezor.io/" target="_blank">Trezor Explorer</a></h4>
+      </div> -->
     </div>
