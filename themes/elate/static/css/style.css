@@ -102,6 +102,7 @@ img {
     justify-content: center;
     margin: 0 auto;
     margin-bottom: 1.75em;
+    margin-top: 1.75em;
 }
 
 .bg-grey img {
@@ -130,7 +131,7 @@ img {
 
 
 .mb-8 {
-    margin-bottom: 6rem;
+    margin-bottom: 4.25rem;
 }
 
 
