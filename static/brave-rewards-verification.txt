@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vertcoin.org
+Token: f3ccb8bf865515a1fe343e81849d9926a31d5e4c066087dddd2f635cb34d33f2
