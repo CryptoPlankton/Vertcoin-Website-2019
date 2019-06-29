@@ -64,6 +64,6 @@ Difficulty adjustment occurs every block (~2.5 minutes) as opposed to Bitcoin (~
 </div>
 </div>
 
-<h1 class="singleHeader">Halving</h1>
+
 
 
