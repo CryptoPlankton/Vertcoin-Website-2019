@@ -14,7 +14,9 @@ draft: false
 Download the One-Click Miner v1.2.3<a href="https://github.com/vertcoin-project/One-Click-Miner/releases/download/1.2.3.0/VertcoinOneClickMinerSetup.msi"> (Windows)</a>
 <br>
 <br>
-
+Download the BETA One-Click Miner (Easier)<a href="https://github.com/vertcoin-project/one-click-miner-vnext/releases"> (Windows)</a>
+<br>
+<br>
 <div class="flex flex-wrap align-center justify-center downloadPicture">
       <div class="w-full sm:w-1/2 md:w-1/3 px-4 mb-12">
         <img src="/images/oneclickminer.png" alt="One click miner screenshot">
