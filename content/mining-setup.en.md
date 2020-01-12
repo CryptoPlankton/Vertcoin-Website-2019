@@ -18,43 +18,29 @@ draft: false
 
 </style>
 
-Download the One-Click Miner v1.2.3<a href="https://github.com/vertcoin-project/One-Click-Miner/releases/download/1.2.3.0/VertcoinOneClickMinerSetup.msi"> (Windows)</a>
-<br><br>
-Download the Vertcoin Wallet v14.0 <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-win64.zip">(Windows)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-macos.dmg">(Mac)</a> <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.14.0/vertcoin-qt-v0.14.0-linux-amd64.zip">(Linux)</a>
-<br><br>
-Download the BETA One-Click Miner (Easier)<a href="https://github.com/vertcoin-project/one-click-miner-vnext/releases"> (Windows)</a>
-<br><br>
-Install it
-<br><br>
-<img src="../images/1click1.png">
-<br><br>
-<br><br>
-Click next
-<br><br>
-<img src="../images/1click2.png">
-
-<br><br>
-Click "Find P2Pool Nodes"
-<br><br>
-
-
-<img src="../images/1click3.png">
-
-<br><br>
-Enter your wallet address
-<br><br>
-
-
-<img src="../images/1click4.png">
-
+Download One-Click Miner - <a href="https://github.com/vertcoin-project/one-click-miner-vnext/releases"> (Github - Latest Release)</a>
 
 
 <br><br>
-If it says waiting for share or online you're done!
+<br><br>
+Create a Username / Password
+<br><br>
+<img src="../images/firstBoot.jpg">
+<br><br>
+<br><br>
+Click "Start Mining"
+<br><br>
+<img src="../images/firstBoot.jpg">
+<br><br>
+<br><br>
+Your computer is now earning you Vertcoin
+<br><br>
+<img src="../images/OCMbeta.jpg">
+<br><br>
+
 <br><br>
 
 
-<img src="../images/1click5.png">
 
 
 <br><br>

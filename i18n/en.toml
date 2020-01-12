@@ -14,6 +14,9 @@
 	
 	[navigation_titles_community]
     other = "Community"
+    
+    [navigation_titles_specs]
+    other = "Specifications"
 	
 	
 	

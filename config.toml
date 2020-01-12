@@ -129,6 +129,12 @@ name = "Mining Setup"
 weight = 11
 
 
+[[menu.main]]
+url = "/specs-explained/"
+name = "specs"
+weight = 14
+
+
 
 
 
@@ -161,45 +167,6 @@ weight = 11
 
 
 
-
-
-
-# quickOverview 
-
-[params.quickOverview]
-    [[params.quickOverview.item]]
-    url = "/vertcoin-for-individuals"
-    [[params.quickOverview.item]]
-     url = "/vertcoin-for-businesses"
-    [[params.quickOverview.item]]
-    url = "/vertcoin-for-developers"
-
-
-# litPoints
-
-[params.litPoints]
-    [[params.litPoints.item]]
-    [[params.litPoints.item]]
-    [[params.litPoints.item]]
-
-
-# litboxPoints 
-
-[params.litboxPoints]
-    [[params.litboxPoints.item]]
-    [[params.litboxPoints.item]]
-    [[params.litboxPoints.item]]
-
-
-
-
-# litLinks
-
-    [params.litLinks]
-    [[params.litLinks.item]]
-    url = "https://github.com/mit-dci/lit"
-    target = "_blank"
-  
 
 # Adoption Links
 
