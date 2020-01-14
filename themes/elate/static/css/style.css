@@ -3251,6 +3251,7 @@ tspan {
     padding-top: 28px;
     opacity: 0.6;
     z-index: 0;
+    min-width: 686px;
 }
 
 .downloadPicture img {
