@@ -7,6 +7,9 @@ theme = "elate"
 #This file prints out code blocks
 
 
+[markup.goldmark.renderer]
+unsafe = true
+
 
 #Language
 
