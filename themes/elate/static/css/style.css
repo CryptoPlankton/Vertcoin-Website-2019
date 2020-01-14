@@ -263,7 +263,7 @@ h4,
 h5,
 h6 {
     /*font-family: "Source Sans Pro", Arial, sans-serif;*/
-    font-family: "Gotham Bold", "Montserrat", PingFang SC, Hiragino Sans GB, Heiti SC, Microsoft YaHei, monospace;
+    font-family: "Gotham Bold", "Gotham A", "Gotham B", "Montserrat", PingFang SC, Hiragino Sans GB, Heiti SC, Microsoft YaHei, monospace;
 }
 
 
@@ -973,7 +973,7 @@ table {
     text-transform: initial;
     line-height: 1.4;
     margin-bottom: 1.25em;
-    font-family: "Gotham Bold", "Montserrat", PingFang SC, Hiragino Sans GB, Heiti SC, Microsoft YaHei, monospace;
+    font-family: "Gotham Bold", "Gotham A", "Gotham B", "Montserrat", PingFang SC, Hiragino Sans GB, Heiti SC, Microsoft YaHei, monospace;
 }
 
 .wrapper h4 {
