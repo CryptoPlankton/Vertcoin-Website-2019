@@ -974,6 +974,7 @@ table {
     line-height: 1.4;
     margin-bottom: 1.25em;
     font-family: "Gotham Bold", "Gotham A", "Gotham B", "Montserrat", PingFang SC, Hiragino Sans GB, Heiti SC, Microsoft YaHei, monospace;
+    margin-bottom: 30px;
 }
 
 .wrapper h4 {
@@ -1012,7 +1013,8 @@ h4 svg {
     margin-right: auto;
     text-align: center;
     line-height: 1.65;
-    margin-bottom: 1em;
+    margin-bottom: 3em;
+    opacity: 0.6;
 }
 
 
