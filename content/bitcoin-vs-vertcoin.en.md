@@ -5,12 +5,8 @@ draft: false
 
 ---
 
-
 <div class="mainvideo">
-<div onclick="loadYoutubeVideo(event);" ontouchstart="loadYoutubeVideo(event);" data-youtubeurl="https://www.youtube.com/embed/JKW4GP7YqIc?rel=0&amp;showinfo=0&amp;wmode=opaque&amp;autoplay=1&amp;modestbranding=1">
-<img src="/images/video_placeholder.jpg" alt="Youtube video" style="filter: brightness(1.09);">
-<div class="mainvideoicon"></div>
-</div>
+<iframe width="794" height="446.625" src="https://www.youtube-nocookie.com/embed/JKW4GP7YqIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <br>
