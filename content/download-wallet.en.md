@@ -19,11 +19,11 @@ draft: false
 
 # Vertcoin Wallet
 
-Download the Vertcoin Wallet v0.15.0.1 
+Download the Vertcoin Wallet v0.17.0 (Verthash)
 <p>
-  <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.15.0.1/vertcoin-qt-v0.15.0.1-win64.zip">(Windows)</a> 
-  <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.15.0.1/vertcoin-qt-v0.15.0.1-macos.dmg">(Mac)</a> 
-  <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.15.0.1/vertcoin-qt-v0.15.0.1-linux-amd64.zip">(Linux)</a> 
+  <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.17.0/vertcoin-qt-v0.17.0-win64.zip">(Windows)</a> 
+  <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.17.0/vertcoin-qt-v0.17.0-macos.dmg">(Mac)</a> 
+  <a href="https://github.com/vertcoin-project/vertcoin-core/releases/download/0.17.0/vertcoin-qt-v0.17.0-linux-amd64.zip">(Linux)</a> 
   <a href="https://github.com/vertcoin-project/vertcoin-core/releases">(All Releases)</a>
 </p>
 <br>
