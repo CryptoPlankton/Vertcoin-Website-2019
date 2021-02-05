@@ -23,11 +23,6 @@ Download One-Click Miner - <a href="https://github.com/vertcoin-project/one-clic
 
 <br><br>
 <br><br>
-Create a Password
-<br><br>
-<img src="../images/firstBoot.jpg">
-<br><br>
-<br><br>
 Click "Start Mining"
 <br><br>
 <img src="../images/firstBoot.jpg">
